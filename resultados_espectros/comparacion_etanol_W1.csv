@@ -1,0 +1,3 @@
+Molecula,Frecuencia_reposo_GHz,Frecuencia_observada_reportada_GHz,Frecuencia_muestreada_mas_cercana_GHz,Intensidad_muestreada_Jy_beam,Diferencia_muestreo_MHz,Frecuencia_pico_local_mas_cercano_GHz,Intensidad_pico_local_Jy_beam,Diferencia_pico_MHz,Velocidad_Doppler_aproximada_km_s,Eu_K,Flujo_reportado_Jy
+C2H5OH,348.8470464,348.84103000000005,348.8410398,0.4177667201,0.009799999929782643,348.8410398,0.4177667201,0.009799999929782643,5.170378717302962,146.47,0.339
+C2H5OH,348.8472103,348.84421000000003,348.8442135,0.3451215327,0.0034999999911633495,348.8442135,0.3451215327,0.0034999999911633495,2.5783990387820332,146.47,0.345
